@@ -1,7 +1,11 @@
 Gnibl::Application.routes.draw do
-  get "static_pages/home"
+  get "static_pages/About_Gnibl"
 
-  get "static_pages/help"
+  get "static_pages/The_Team"
+
+  get "static_pages/About"
+
+  get "static_pages/The_team"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

@@ -1,7 +1,7 @@
 class StaticPagesController < ApplicationController
-  def home
+  def About_Gnibl
   end
 
-  def help
+  def The_Team
   end
 end
